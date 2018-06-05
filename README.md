@@ -11,6 +11,7 @@ This time, I want to re-implementate it by a most trending language, JS.
 ## Contribution
 1. If you would like to ask me to implement a specific algorithm or data structure, just raise an issue.
 2. If you would like to join with me, please pull a new request.
+3. If there're any mistake on my implementation, please pull an issue. 
 
 Thank you
 
