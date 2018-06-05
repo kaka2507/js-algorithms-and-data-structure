@@ -1,4 +1,11 @@
 /**
+ * Quick Sort Performance for following implemetation
+ * Average Big O: nlog(n)
+ * Worst case Big O: n^2 (when the array is already sorted) --> the partition will break the origin array into two parts (1: one element, 2: the rest)
+ * Space Complexity: O(1)
+ */
+
+/**
  * Partition implementation base on Hoare Partition Scheme
  * @param {Array} a 
  * @param {Integer} lo 
